@@ -1,4 +1,4 @@
-# Introducing Python materials
+# Introducing Python
 In [this chapter](https://neuraldatascience.io/3-python/introduction.html), we will introduce the basic concepts of programming in Python. We will start with the basics of Python syntax, and then move on to more advanced topics like data types, flow control, and reading and writing data files. We will introduce AI assitance at the start of the next chapter.
 
 By the end of this chapter, you should be able to:
